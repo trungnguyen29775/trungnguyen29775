@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @trungnguyen29775
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Front-End
+- 📫 How to reach me trungnguyen29775@gmail.com
