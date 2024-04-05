@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @trungnguyen29775
+- 👋 Hi, I’m Jonathan Nguyen
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Front-End
+- 🌱 I’m currently leaning to be Full Stack Developer
 - 📫 How to reach me trungnguyen29775@gmail.com
